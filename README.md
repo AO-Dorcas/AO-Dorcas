@@ -1,4 +1,4 @@
-# Hi there, Aduragbemi
+# Hi there, I am Aduragbemi
 
 I’m an MSc Data Science student and aspiring Data Scientist with a strong foundation in data analytics, statistics, and business intelligence. I am passionate about transforming raw data into actionable insights that support data-driven decision-making and solve real-world business problems.
 
